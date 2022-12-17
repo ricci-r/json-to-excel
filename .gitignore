@@ -6,6 +6,7 @@
 
 ### Folder App ###
 input/
+!input/
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
