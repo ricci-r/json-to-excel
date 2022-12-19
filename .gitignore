@@ -7,6 +7,9 @@
 ### Folder App ###
 input/
 !input/
+outpu/
+!outpu/
+*.xlsx
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
